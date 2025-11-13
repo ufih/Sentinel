@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://files.catbox.moe/28dytj.png" alt="Sentinel Logo" width="200"/>
+<img src="https://files.catbox.moe/wq58dm.png" alt="Sentinel Logo" width="200"/>
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
